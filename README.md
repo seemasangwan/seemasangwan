@@ -1,5 +1,5 @@
 <div style="background-color:🖤 ,color⚪">
-<h1💫>About Me</h1>
+<h1>💫About Me</h1>
 <br>  
 <p align="left">Hi 👋, I'm Seema</p>
 <p align="left"> I am Front-end developer</p>
