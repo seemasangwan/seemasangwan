@@ -21,7 +21,7 @@
 
 <h1 align="left">💻Tech Stack</h1>
 <br>
-<button style="background:#3630a3;color:white;"onclick="alert('Save processed.')">Save</button>
+<button style="background:#3630a3;color:white;">Save</button>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seema&show_icons=true&locale=en&layout=compact" alt="seema" /></p>
