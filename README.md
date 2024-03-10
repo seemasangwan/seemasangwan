@@ -1,5 +1,8 @@
 <div style="background-color:🖤 ,color⚪">
-<h1 align="center">Hi 👋, I'm Seema</h1>
+<h1>About Me</h1>
+<br>
+  
+<h3 align="center">Hi 👋, I'm Seema</h3>
 <h3 align="center"> I am Front-end developer</h3>
 <h3 align="center"> I am currently learning machine learning and AI</h3>
 <h3 align="center"> I am currently learning Cyber Security </h3></div>
