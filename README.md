@@ -2,11 +2,10 @@
 <h1>💫About Me</h1>
 <br>  
   <p align="left">Hi 👋, I'm Seema.I am a 3rd year student at Indira Gandhi Delhi Technical University For Women currently pursuing Bachelors in Information Technology </p>
-
 <p align="left"> ⭐✈I am Front-end developer</p>
 <p align="left"> 🛩️I am currently learning machine learning and AI</p>
 <p align="left"> 🔐I am currently learning Cyber Security and cloud computing </p></div>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 <h1 align="left">🌐Socials</h1>
 <br>
