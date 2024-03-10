@@ -7,8 +7,6 @@
 <p align="left"> 🔐I am currently learning Cyber Security and cloud computing </p></div>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=seema&label=Profile%20views&color=0e75b6&style=flat" width="200" height="50" alt="seema" /> </p>
-
 <h1 align="left">🌐Socials</h1>
 <br>
 <p align="left">
@@ -67,9 +65,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
+<br>
 
 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=seema&label=Profile%20views&color=0e75b6&style=flat" width="200" height="50" alt="seema" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seema&show_icons=true&locale=en&layout=compact" alt="seema" /></p>
 
