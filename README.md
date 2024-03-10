@@ -9,8 +9,6 @@
 <img align="right" alt="coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.j9auLwki5u0ZkJUzhgvekAHaFj&pid=Api&P=0">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=seema&label=Profile%20views&color=0e75b6&style=flat" width="200" height="50" alt="seema" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,BOOTSRTAP,DSA In c++**
-
 <h1 align="left">🌐Socials</h1>
 <br>
 <p align="left">
