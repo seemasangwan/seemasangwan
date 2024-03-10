@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,BOOTSRTAP,DSA In c++**
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Socials</h1>
 <p align="left">
 <a href="https://twitter.com/seema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seema" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/seema seema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seema seema" height="30" width="40" /></a>
