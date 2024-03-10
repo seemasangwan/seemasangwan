@@ -79,8 +79,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seema&show_icons=true&locale=en&layout=compact" alt="seema" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seema&show_icons=true&locale=en" alt="seema" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seema&" alt="seema" /></p>
