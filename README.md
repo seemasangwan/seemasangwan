@@ -21,7 +21,7 @@
 
 <h1 align="left">💻Tech Stack</h1>
 <br>
-<button style="background:#3630a3;color:white;">Save</button>
+<button style="bacgroundcolor:red;">Hello</button>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seema&show_icons=true&locale=en&layout=compact" alt="seema" /></p>
