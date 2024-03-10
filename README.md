@@ -21,7 +21,8 @@
 
 <h1 align="left">💻Tech Stack</h1>
 <br>
-![c++]
+![c++]![c-](https://github.com/seemasangwan/seemasangwan/assets/104920728/9ec3d79f-f017-4337-a9e5-f4fd8ed1806a)
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seema&show_icons=true&locale=en&layout=compact" alt="seema" /></p>
