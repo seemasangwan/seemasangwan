@@ -73,7 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seemasangwan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=seemasangwan&" alt="seema](https://github-readme-streak-stats.herokuapp.com/?user=sharmaanj200&theme=monokai&hide_border=false)" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seemasangwan&(https://github-readme-streak-stats.herokuapp.com/?user=seemasangwan&theme=monokai&hide_border=false)" alt="seema()" /></p>
 </div>
 
 
