@@ -1,11 +1,11 @@
 <div style="background-color:🖤 ,color⚪">
 <h1>💫About Me</h1>
 <br>  
-  <h2 align="left">Hi 👋, I'm Seema.I am a 3rd year student at Indira Gandhi Delhi Technical University For Women currently pursuing Bachelors in Information Technology </h2>
+  <p align="left">Hi 👋, I'm Seema.I am a 3rd year student at Indira Gandhi Delhi Technical University For Women currently pursuing Bachelors in Information Technology </p>
 
-<h2align="left"> ⭐✈I am Front-end developer</h2>
-<h2align="left"> 🛩️I am currently learning machine learning and AI</h2>
-<h2align="left"> 🔐I am currently learning Cyber Security and cloud computing </h2></div>
+<p align="left"> ⭐✈I am Front-end developer</p>
+<p align="left"> 🛩️I am currently learning machine learning and AI</p>
+<p align="left"> 🔐I am currently learning Cyber Security and cloud computing </p></div>
 
 
 <h1 align="left">🌐Socials</h1>
