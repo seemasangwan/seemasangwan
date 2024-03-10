@@ -1,15 +1,16 @@
 <div style="background-color:🖤 ,color⚪">
 <h1>💫About Me</h1>
 <br>  
-<p align="left">Hi 👋, I'm Seema</p>
-<p align="left"> ⭐✈I am Front-end developer</p>
-<p align="left"> 🛩️I am currently learning machine learning and AI</p>
-<p align="left"> 🔐I am currently learning Cyber Security and cloud computing </p></div>
+  <h2 align="left">Hi 👋, I'm Seema.I am a 3rd year student at Indira Gandhi Delhi Technical University For Women currently pursuing Bachelors in Information Technology </h2>
+
+<h2align="left"> ⭐✈I am Front-end developer</h2>
+<h2align="left"> 🛩️I am currently learning machine learning and AI</h2>
+<h2align="left"> 🔐I am currently learning Cyber Security and cloud computing </h2></div>
 
 
 <h1 align="left">🌐Socials</h1>
 <br>
-<p align="left">
+<palign="left">
 <a href="https://twitter.com/seema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seema" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/seema seema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seema seema" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/seema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="seema" height="30" width="40" /></a>
@@ -39,7 +40,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrah2logo"  />
   <img width="15" />
 
 
