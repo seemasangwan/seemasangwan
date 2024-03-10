@@ -6,7 +6,7 @@
 <p align="left"> ⭐✈I am Front-end developer</p>
 <p align="left"> 🛩️I am currently learning machine learning and AI</p>
 <p align="left"> 🔐I am currently learning Cyber Security and cloud computing </p></div>
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <h1 align="left">🌐Socials</h1>
 <br>
