@@ -1,7 +1,9 @@
+<div style="background-color:🖤 ,color⚪">
 <h1 align="center">Hi 👋, I'm Seema</h1>
 <h3 align="center"> I am Front-end developer</h3>
 <h3 align="center"> I am currently learning machine learning and AI</h3>
-<h3 align="center"> I am currently learning Cyber Security </h3>
+<h3 align="center"> I am currently learning Cyber Security </h3></div>
+
 <img align="right" alt="coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.j9auLwki5u0ZkJUzhgvekAHaFj&pid=Api&P=0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seema&label=Profile%20views&color=0e75b6&style=flat" alt="seema" /> </p>
 
