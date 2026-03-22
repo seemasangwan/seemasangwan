@@ -1,86 +1,114 @@
-<div style="background-color:🖤 ,color⚪">
-<h1>💫About Me</h1>
-<br>  
-  <p align="left">Hi 👋, I'm Seema.I am a 3rd year student at Indira Gandhi Delhi Technical University For Women currently pursuing Bachelors in Information Technology </p>
-<p align="left"> ⭐✈I am Front-end developer</p>
-<p align="left"> 🛩️I am currently learning machine learning and AI</p>
-<p align="left"> 🔐I am currently learning Cyber Security and cloud computing </p></div>
+# Hi 👋, I'm Seema Sangwan  
 
+💻 Software Development Engineer @ Flipkart | ☕ Java Backend Developer | 🇮🇳 India  
 
-<h1 align="left">🌐Socials</h1>
-<br>
-<palign="left">
-<a href="https://twitter.com/seema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seema" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/seema seema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seema seema" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/seema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="seema" height="30" width="40" /></a>
-</p>
+---
 
-<h1 align="left">💻Tech Stack</h1>
-<br>
+## 👩‍💻 About Me  
 
+- 💼 Software Development Engineer at Flipkart  
+- 🎓 B.Tech in Information Technology (IGDTUW, 2025)  
+- 🔧 Backend Developer experienced in building scalable systems  
+- ☕ Currently focusing on **Java, Spring Boot & System Design**  
+- 🧠 Learning **Design Patterns (Factory, Abstract Factory, Builder)**  
+- 🧩 Strong problem solver with consistent DSA practice  
 
+---
 
+## 🛠️ Tech Stack  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="15" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="15" />
+### ☕ Core (Current Focus)  
+Java • Spring Boot • System Design • Design Patterns  
 
+### ⚙️ Backend  
+Node.js • Express.js • Java • Dropwizard  
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrah2logo"  />
-  <img width="15" />
+### 🗄️ Database  
+MongoDB • MySQL  
 
+### 🎨 Frontend  
+React.js • HTML • CSS • JavaScript  
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="15" />
+### ☁️ DevOps & Tools  
+Docker • Kubernetes • CI/CD • Git • Postman  
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+### 🔐 Security  
+JWT • bcrypt.js • Authentication & Authorization  
 
+---
 
-<h1> 📊GitHub Stats</h1>
-<br>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=seemasangwan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seemasangwan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  
+## 📌 What I'm Currently Doing  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seemasangwan&(https://github-readme-streak-stats.herokuapp.com/?user=seemasangwan&theme=monokai&hide_border=false)" alt="seema()" /></p>
-</div>
+- 🔹 Mastering **Java + Spring Boot**  
+- 🔹 Implementing **Design Patterns in real-world use cases**  
+- 🔹 Learning **Low-Level Design (LLD)**  
+- 🔹 Practicing **DSA for interviews**  
 
-<h2>Profile Views</h2>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seemasangwan&label=Profile%20views&color=0e75b6&style=flat" width="200" height="50" alt="seema" /> </p>
+---
 
+## 🚀 Experience  
 
+### 💼 Software Development Engineer @ Flipkart  
+- Built **end-to-end scalable services** (backend + frontend + deployment)  
+- Implemented **authentication, rate limiting, caching & API documentation (Swagger)**  
+- Deployed applications using **Docker & Kubernetes**  
+- Contributed to **Flipkart Data Platform (FDP)**  
 
+---
 
+## 🔥 Featured Projects  
 
+### 🏗️ Java Design Patterns  
+- Factory Pattern  
+- Abstract Factory Pattern  
+- Builder Pattern  
+
+### 🛒 Handmade Goods Marketplace  
+- Full-stack platform using Node.js, Express, MongoDB  
+- Implemented **JWT authentication & secure APIs**  
+
+### 🌐 Dynamic Portfolio  
+- Backend-driven portfolio with CRUD operations  
+
+### 🌦️ Weather App  
+- Built using React.js & external APIs  
+
+### 🎮 Bingo Game  
+- 2-player interactive game using JavaScript  
+
+---
+
+## 🏆 Achievements & Coding Stats  
+
+- 🥇 Flipkart GWC 5.0 → **Top 200 / 13,000+ participants**  
+- 👩‍💻 Contributor → GirlScript Summer of Code 2023  
+- 🧠 **900+ problems solved on LeetCode**  
+- 📊 **40+ contests participated on LeetCode**  
+- ⭐ **Highest LeetCode Rating: 1632**  
+- 🎯 Strong foundation in **DSA, OOP, DBMS, OS**  
+
+---
+
+## 📊 GitHub Stats  
+
+![Seema's GitHub stats](https://github-readme-stats.vercel.app/api?username=seemasangwan&show_icons=true&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seemasangwan&layout=compact&theme=dracula)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seemasangwan&theme=dracula)
+
+---
+
+## 📫 Connect with Me  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/seema-seema  
+- 📧 Email: seemasangwan3018@gmail.com  
+
+---
+
+## ✨ Fun Fact  
+I enjoy designing scalable backend systems and writing clean, maintainable Java code ☕  
+
+---
+
+⭐️ From [seemasangwan](https://github.com/seemasangwan)
